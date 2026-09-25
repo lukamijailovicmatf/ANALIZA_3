@@ -1,5 +1,7 @@
 # ANALIZA_3
 
+Repozitorijum za materijale iz kursa Analiza 3 za I - smer na Matematickom fakultetu
+
 NAPOMENA: ako se bilo koji pdf ne otvara u okviru Github-a, samo ga lokalno preuzeti sa Github-a na Desktop ili bilo koji drugi direktorijum po zelji i onda ce biti dostupan za dalju upotrebu.
 
 Linux OS: Ctrl + Alt + T => cd Desktop/ => git clone https://github.com/lukamijailovicmatf/ANALIZA_3.git.
